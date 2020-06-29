@@ -1,0 +1,4 @@
+john SHOUTS: hello @michael /pink/this will work/ :-| n
+michael SHOUTS: hello @john /red/i know/ :-( n
+john SAYS: /pink/i am happy/ 
+micheal Shouts: /red/I know/

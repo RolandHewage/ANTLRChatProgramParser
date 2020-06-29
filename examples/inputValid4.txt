@@ -1,0 +1,7 @@
+john SHOUTS: hello @michael /pink/this will work/ :-) n
+michael SHOUTS: hello @john /red/i know/ :-( n
+john SAYS: /pink/i am happy/ 
+micheal Shouts: /red/I know/
+john Says: /pink/i wanna go/ @micheal
+micheal SAYS: ok bye friend
+
